@@ -1,0 +1,95 @@
+div.stafflogin{
+   
+   border: 5px solid black;
+   margin: auto;
+   height: 500px;
+   width: 500px;
+   margin-top: 30px;
+   
+   
+   
+  
+}
+div.stafflogintitle{
+    background-color: black;
+    height: 40px;
+   
+   
+}
+div.text{
+    color:  crimson;
+    padding-left: 160px;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+input{
+    margin-bottom: 20px;
+    height: 20px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+input.xtra{
+   margin-left: 3px;
+}
+input.bxtra{
+    margin-left: 23px;
+}
+input.zxtra{
+    margin-left: 16px;
+}
+
+button{
+    
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+button:hover{
+    width: 200px;
+    transition: 0.5s;
+}
+
+select{
+    height: 30px;
+    width: 140px;
+    margin-left: 60px;
+   
+    
+}
+
+select.forcourseoption{
+    margin-left: 100px;
+}
+ul{
+    
+}
+ul li{
+    display: inline-block;
+    position: relative;
+    left: 70%;
+    padding: 20px;
+
+    
+   
+   
+    
+    
+    
+}
+ul li:hover{
+    background-color: crimson;
+    transition: 0.5s;
+}
+li a{
+    text-decoration: none;
+    color: rgb(90, 130, 153);
+    
+}
